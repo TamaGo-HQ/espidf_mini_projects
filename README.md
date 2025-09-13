@@ -30,9 +30,8 @@ Here’s the (tentative) list of projects I planned to do:
 
 ### Prep: Environment Setup  
 
-- **Project:** Development environment setup + LED Blink  
-- **Tasks:** Install ESP-IDF / Arduino IDE, test UART communication, basic GPIO  
-- **Deliverable:** Simple blink program with different patterns  
+- **Project:** Development environment setup
+- **Tasks:** Install ESP-IDF & Test Flashing
 
 ---
 

@@ -2,7 +2,7 @@
 
 Hello, Bonjour, γεια σας  
 
-This repo is made with the purpose of being a reference, a guide, for anyone starting with ESP32 — specifically ESP32 with ESP-IDF — and who wants to follow the journey of a fellow beginner learner.  
+This repo is made with the purpose of being a reference, a guide, for anyone starting with ESP32, specifically ESP32 with ESP-IDF, and who wants to follow the journey of a fellow beginner learner.  
 
 ---
 
@@ -10,7 +10,7 @@ This repo is made with the purpose of being a reference, a guide, for anyone sta
 
 I’m not exactly a beginner in embedded software development, nor with ESP32.  
 
-I’ve worked with Arduino, ESP32, and STM32 before. But my last internship was in a different engineering field (SCADA & HMIs for oil & gas). You could argue it’s not that different, but my tasks there were pretty far from the embedded software I usually do (mostly Python, and not running on a tiny device — I like running code on limited resources). Hence, the motivation for this road trip with the ESP32.  
+I’ve worked with Arduino, ESP32, and STM32 before. But my last internship was in a different engineering field (SCADA & HMIs for oil & gas). You could argue it’s not that different, but my tasks there were pretty far from the embedded software I usually do (mostly Python, and not running on a tiny device, like running code on limited resources). Hence, the motivation for this road trip with the ESP32.  
 
 ---
 
@@ -18,7 +18,7 @@ I’ve worked with Arduino, ESP32, and STM32 before. But my last internship was 
 
 Because I already worked with the Arduino framework before on an Arduino Uno (my first embedded software experience), and I also used PlatformIO on VS Code to program ESP32. I just wanted to try something tougher.  
 
-So here we are. For this little road trip I bought an **ESP32-WROOM-32D board** — mind you, this is the first board I’ve ever actually owned. Before, I was always borrowing boards from companies I interned at, robotics clubs, or friends.  
+So here we are. For this little road trip I bought an **ESP32-WROOM-32D board**, mind you, this is the first board I’ve ever actually owned. Before, I was always borrowing boards from companies I interned at, robotics clubs, or friends.  
 
 This one has **dual-core, WiFi, Bluetooth, and a CP2104** so I can program it directly from my PC’s USB port.  
 
@@ -100,6 +100,6 @@ Here’s the (tentative) list of projects I planned to do:
 
 This list is more like a playlist than a roadmap. I’ll probably change it as I go.  
 
-I might do a project a day, maybe two a day — honestly, no clue yet.  
+I might do a project a day, maybe two a day. Honestly, no clue yet.  
 
 So buckle up and enjoy the ride 🚀  

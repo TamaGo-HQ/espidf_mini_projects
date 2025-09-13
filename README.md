@@ -10,7 +10,7 @@ This repo is made with the purpose of being a reference, a guide, for anyone sta
 
 I’m not exactly a beginner in embedded software development, nor with ESP32.  
 
-I’ve worked with Arduino, ESP32, and STM32 before. But my last internship was in a different engineering field (SCADA & HMIs for oil & gas). You could argue it’s not that different, but my tasks there were pretty far from the embedded software I usually do (mostly Python, and not running on a tiny device, like running code on limited resources). Hence, the motivation for this road trip with the ESP32.  
+I’ve worked with Arduino, ESP32, and STM32 before. But my last internship was in a different engineering field (SCADA & HMIs for oil & gas). You could argue it’s not that different (they all come around to monitoring and control when boiled down), but my tasks there were pretty far from the embedded software I usually do (mostly Python). Hence, the motivation for this road trip with the ESP32.  
 
 ---
 

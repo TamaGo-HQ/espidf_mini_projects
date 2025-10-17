@@ -1,0 +1,24 @@
+# ESP-IDF build output
+*/build/
+*/sdkconfig
+*/sdkconfig.old
+
+
+# VSCode and IDF extension files
+.vscode/
+.idea/
+
+# Python virtual environments
+venv/
+.env/
+
+# Logs and temporary files
+*.log
+*.pyc
+__pycache__/
+*.tmp
+*.bak
+
+# OS-specific
+.DS_Store
+Thumbs.db

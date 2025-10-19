@@ -2,7 +2,7 @@
 */build/
 */sdkconfig
 */sdkconfig.old
-
+*/main/credentials.h
 
 # VSCode and IDF extension files
 .vscode/
